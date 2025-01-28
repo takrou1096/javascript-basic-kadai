@@ -6,7 +6,3 @@ for (let i = 1; i <= 15; i += 1) {
 }
 
 // while文の場合
-while (holidays != "勤労感謝の日") {
-  holidays = Math.floor(Math.random() * 5);
-  console.log =(holidays); 
-}
