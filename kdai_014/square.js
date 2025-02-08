@@ -4,4 +4,4 @@ const multiplier = (num) => {
 return num * num;
 }
 
-console.log(multiplier);
+console.log(multiplier(10));
